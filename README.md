@@ -1,2 +1,2 @@
 # gotesting
-Just a testing area for learning go lang.
+Just a testing area for working with go lang.
